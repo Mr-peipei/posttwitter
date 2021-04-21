@@ -26,6 +26,7 @@ The following command is running command.
 ```
 python post_twitter.py hogehoge
 ```
+  
 
 if you want to tweet just bellow command,
 ```
@@ -35,8 +36,8 @@ write path in your bash file.*(.bashrc  or .bash_profile)
 ```bashrc
 alias tweet='python /{absolute path}/post_twitter.py'
 ```
-
-If you modify bash file, type ` $ source ~/.bashrc` or restart terminal.
-
+  
+If you modify bash file, type `$ source ~/.bashrc` or restart terminal.
+  
 Well done!
-Now you can tweet in your terminal! ' $ tweet hogehoge!'
+Now you can tweet in your terminal!    `$ tweet hogehoge!`
