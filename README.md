@@ -18,16 +18,16 @@ $ export TWITTER_CONSUMER_KEY="{consumer-key}"
 $ export TWITTER_CONSUMER_SECRET_KEY="{consumer-secret-key}"
 $ export TWITTER_TOKEN="{token}"
 $ export TWITTER_TOKEN_SECRET="{secret-token}"
-```
+```  
 
 That's all!!
 The following command is running command.
 
 ```
 python post_twitter.py hogehoge
-```
+```  
+ 
   
-
 if you want to tweet just bellow command,
 ```
 $ tweet hogehoge
